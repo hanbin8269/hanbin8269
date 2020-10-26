@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/hanbin8269">
    <img src="https://github-readme-stats.vercel.app/api?username=hanbin8269">
  </a>
- </div>
- <div>
   <a href="https://github.com/hanbin8269">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbin8269&layout=compact">
  </a>
