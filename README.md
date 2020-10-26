@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning DevOps and Back-End knowledge including DRF, AWS, Docker
 
- [![hanbin8269's github stats](https://github-readme-stats.vercel.app/api?username=hanbin8269)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+  <a href="https://github.com/hanbin8269">
+   <img src="https://github-readme-stats.vercel.app/api?username=hanbin8269">
+ </a>
+ </div>
+ <div>
+  <a href="https://github.com/hanbin8269">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbin8269&layout=compact">
+ </a>
+ </div>
