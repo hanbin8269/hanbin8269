@@ -45,9 +45,6 @@ Here are some ideas to get you started:
  <a target="_blank" href="https://hanbin8269.tistory.com/"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" />
 </p>
    
-<p align="center">
-
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hanbin8269)](https://hits.seeyoufarm.com)
   <br>
   ![](https://img.shields.io/github/followers/hanbin8269?style=social)
-  ![](https://img.shields.io/github/follings/hanbin8269?style=social)
-</p>
