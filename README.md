@@ -1,19 +1,6 @@
-<!--
-**hanbin8269/hanbin8269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🌱 I’m currently learning DevOps and Back-End knowledge including DRF, AWS, Docker
+# 정한빈 (Jeong Hanbin)
+### Django, Docker, AWS 등의 기술을 통한 개발 및 배포에 관심이 많은 학생입니다! 
+#### `Spring도 고 있어요!`
 
   <div>
   <a href="https://github.com/hanbin8269">
@@ -28,7 +15,7 @@ Here are some ideas to get you started:
 <h3 align="center">:gear: 제가 주로 사용하는 기술이에요 :gear:</h3>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
@@ -36,9 +23,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-6DB33F?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a></a>
 </p>
 
-<h3 align="center">:gear: 제 글도 봐주세요 :gear:</h3>
+<h3 align="center">:pencil2: 제가 쓴 글이에요 :pencil2:</h3>
 
 <p align="center">
  <a target="_blank" href="https://github.com/hanbin8269/TIL"><img src="http://img.shields.io/badge/-TIL-yellow?style=flat-square&logo=github&locoColor=white"</a>
