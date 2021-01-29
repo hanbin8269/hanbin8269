@@ -1,17 +1,11 @@
 # 정한빈 (Jeong Hanbin)
-### Django, Docker, AWS 등의 기술을 통한 개발 및 배포에 관심이 많은 학생입니다! 
-#### `Spring도 고 있어요!`
+### Django, Docker, AWS 등의 기술을 통한 개발 및 배포에 관심이 많은 학생입니다!
+#### `Spring도 배우고 있어요!`
 
-  <div>
-  <a href="https://github.com/hanbin8269">
-   <img src="https://github-readme-stats.vercel.app/api?username=hanbin8269">
- </a>
-  <a href="https://github.com/hanbin8269">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbin8269&layout=compact&count_private=false">
- </a>
- </div>
-
-
+<h3 align="center">:dog: 제 이력서에요 :dog:</h3>
+<p align="center">
+<a href=https://www.notion.so/ea0e064d7c6f415095ac477fe1fe9dc2><img src="https://img.shields.io/static/v1?logo=Notion&logoColor=white&message=Notion&color=black&label="/></a>
+</p>
 <h3 align="center">:gear: 제가 주로 사용하는 기술이에요 :gear:</h3>
 
 <p align="center">
@@ -33,6 +27,15 @@
  <a target="_blank" href="https://hanbin8269.tistory.com/"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" />
 </p>
    
+  <div>
+  <a href="https://github.com/hanbin8269">
+   <img src="https://github-readme-stats.vercel.app/api?username=hanbin8269">
+ </a>
+  <a href="https://github.com/hanbin8269">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbin8269&layout=compact&count_private=false">
+ </a>
+ </div>
+ 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hanbin8269)](https://hits.seeyoufarm.com)
   <br>
   ![](https://img.shields.io/github/followers/hanbin8269?style=social)
