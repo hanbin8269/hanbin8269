@@ -31,9 +31,6 @@
   <a href="https://github.com/hanbin8269">
    <img src="https://github-readme-stats.vercel.app/api?username=hanbin8269">
  </a>
-  <a href="https://github.com/hanbin8269">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbin8269&layout=compact&count_private=false">
- </a>
  </div>
  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hanbin8269)](https://hits.seeyoufarm.com)
