@@ -4,7 +4,7 @@
 
 <h3 align="center">:dog: 제 이력서에요 :dog:</h3>
 <p align="center">
-<a href=https://bit.ly/2LBtGFC><img src="https://img.shields.io/static/v1?logo=Notion&logoColor=white&message=Notion&color=black&label="/></a>
+<a href=https://bit.ly/3aPkRBx><img src="https://img.shields.io/static/v1?logo=Notion&logoColor=white&message=Notion&color=black&label="/></a>
 </p>
 <h3 align="center">:gear: 제가 주로 사용하는 기술이에요 :gear:</h3>
 
