@@ -1,8 +1,9 @@
 # 정한빈 (Jeong Hanbin)
 #### Back-end Developer Jr.
 
- <a target="_blank" href="https://github.com/hanbin8269/TIL"><img src="http://img.shields.io/badge/-TIL-yellow?style=flat&logo=github&locoColor=white"></a> <a target="_blank" href="https://hanbin8269.tistory.com/"><img src="https://img.shields.io/badge/Tistory-D94F00?style=flat&logo=dev.to&logoColor=white&logoWidth=50"></a>
-
+[![TIL](http://img.shields.io/badge/TIL-gray?style=flat&logo=github&locoColor=white)](https://github.com/hanbin8269/TIL)
+[![Tistory](https://img.shields.io/badge/Tistory-hanbin8269-red.svg)](https://hanbin8269.tistory.com/)
+[![Velog](https://img.shields.io/badge/Velog-@habent-green.svg)](https://velog.io/@habent)
 ---
 ### 제 포트폴리오에요 :dog: 
 <a href=https://www.notion.so/Jeong-Hanbin-f29ac3b42b464c8ca83ac5b8648414ce><img src="https://img.shields.io/static/v1?logo=Notion&logoColor=white&message=Notion&color=black&label="/></a>
