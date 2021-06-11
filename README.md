@@ -14,6 +14,7 @@
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-232F3E?style=flat&logo=Git&logoColor=white"/></a>
