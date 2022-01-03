@@ -31,6 +31,6 @@
 <img src="https://user-images.githubusercontent.com/58972963/147941721-8338cb52-cd2e-4654-aace-a94752f2935f.png" width="150" height="103"/> |
 :---: |
 <a href="https://elice.io">엘리스 코딩</a> |
-**2021.10.8 ~ 재직 중**|
+**2021.10.12 ~ 재직 중**|
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hanbin8269)](https://hits.seeyoufarm.com)
