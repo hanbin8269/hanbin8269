@@ -3,7 +3,7 @@
 
 [![TIL](http://img.shields.io/badge/TIL-gray?style=flat&logo=github&locoColor=white)](https://github.com/hanbin8269/TIL)
 [![Tistory](https://img.shields.io/badge/Tistory-hanbin8269-red.svg)](https://hanbin8269.tistory.com/)
-[![Velog](https://img.shields.io/badge/Velog-@habent-green.svg)](https://velog.io/@habent)
+
 ---
 ### 제 포트폴리오에요 :dog: 
 <a href=https://www.notion.so/Jeong-Hanbin-f29ac3b42b464c8ca83ac5b8648414ce><img src="https://img.shields.io/static/v1?logo=Notion&logoColor=white&message=Notion&color=black&label="/></a>
