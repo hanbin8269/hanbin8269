@@ -5,10 +5,10 @@
 [![Tistory](https://img.shields.io/badge/Tistory-hanbin8269-red.svg)](https://hanbin8269.tistory.com/)
 
 ---
-### 제 포트폴리오에요 :dog: 
+### Portfolio :dog: 
 <a href=https://www.notion.so/Jeong-Hanbin-f29ac3b42b464c8ca83ac5b8648414ce><img src="https://img.shields.io/static/v1?logo=Notion&logoColor=white&message=Notion&color=black&label="/></a>
 
-### 제가 주로 사용하는 기술이에요 🔨
+### Tech Stack 🔨
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <br>
@@ -17,17 +17,20 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>
+<br>
 <img src="https://img.shields.io/badge/Git-232F3E?style=flat&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/></a></a>
 </div>
-<br>   
-<br>   
-<a href="https://github.com/hanbin8269">
-   <img src="https://github-readme-stats.vercel.app/api?username=hanbin8269">
-</a>
- 
+
+### Work Exp
+<img src="https://user-images.githubusercontent.com/58972963/147941721-8338cb52-cd2e-4654-aace-a94752f2935f.png" width="150" height="103"/> |
+:---: |
+<a href="https://elice.io">엘리스 코딩</a> |
+**2021.10.8 ~ 재직 중**|
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hanbin8269)](https://hits.seeyoufarm.com)
-<br>
-![](https://img.shields.io/github/followers/hanbin8269?style=social)
