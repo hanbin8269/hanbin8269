@@ -6,7 +6,7 @@
 
 ---
 ### Portfolio :dog: 
-<a href=https://www.notion.so/Jeong-Hanbin-ca31dca95a674e658d037954f3943c11><img src="https://img.shields.io/static/v1?logo=Notion&logoColor=white&message=Notion&color=black&label="/></a>
+<a href=https://lavender-toucan-784.notion.site/Jr-Back-end-Developer-815293a600f34d6f96ecbc760bf37055><img src="https://img.shields.io/static/v1?logo=Notion&logoColor=white&message=Notion&color=black&label="/></a>
 
 ### Tech Stack 🔨
 <div>
