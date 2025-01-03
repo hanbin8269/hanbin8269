@@ -1,2 +1,2 @@
 
-- 🧑🏻‍💻 Resume : [Notion](https://lavender-toucan-784.notion.site/Jr-Back-end-Developer-815293a600f34d6f96ecbc760bf37055)
+- 🧑🏻‍💻 Resume : [Docs](https://docs.google.com/document/d/14gHK9sYJRmUR7sTAtkJcHLjwPBQjrM9IRuSMnXE5svk/edit?usp=sharing)
